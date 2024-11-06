@@ -24,9 +24,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'shiyingfei4869@gmail.com'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'mailto:shiyingfei4869@gmail.com'
+  #   label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
@@ -37,7 +37,7 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
-  - area: Information System
+  - area: Doctor of Philosophy, Information Systems and Analytics
     institution: National University of Singapore
     date_start: 2023-08-01
     # date_end: 2024-11-06
