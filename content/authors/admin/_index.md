@@ -39,7 +39,7 @@ profiles:
 education:
   - area: Information System
     institution: National University of Singapore
-    date_start: AY2023/2024 Semester 1
+    date_start: 2023-08-01
     date_end: (Ongoing)
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
